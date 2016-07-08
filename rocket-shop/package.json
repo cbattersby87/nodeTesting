@@ -6,7 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
   "devDependencies": {
     "mocha": "^2.5.3",
     "sinon": "^1.17.4"
